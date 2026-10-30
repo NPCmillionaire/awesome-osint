@@ -661,6 +661,7 @@ algorithms, knowledgebase and AI technology.
 * [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
 * [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+* [sherlock-rs](https://github.com/NPCmillionaire/sherlock-rs) - Rust rewrite of Sherlock that checks usernames across sites in parallel, using baseline probes to reduce false positives.
 * [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
 * [Trace](https://trace.manus.space) - Real-time OSINT platform to search usernames, emails, phone numbers, and full names across 600+ platforms with breach detection and AI risk scoring.
 * [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Username — Instantly. Scans thousands of sites for username presence.
